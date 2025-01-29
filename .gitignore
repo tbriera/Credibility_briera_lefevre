@@ -18,3 +18,4 @@ launch.json
 *.xlsx
 data/*
 IMACLIM_outputs/*.csv
+.vscode/*
